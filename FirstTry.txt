@@ -1,0 +1,20 @@
+Installed:
+ jdk-7u25-windows-x64
+ netbeans-7.3.1-windows
+
+GitBut: Software Repository
+ JoseUsma G1tHub5
+
+Maven: Build Told
+
+Tasks: 
+Spring MVC webapp
+Create a project with Maven, - Build Tool
+OK - Use Github
+OK - read/write to a database, 
+learn how to call APIs using something like CXF.
+Zappos API, create a Java webapp that uses that in some fashion. It always really impresses people when someone puts something like that together
+
+Tutorials:
+http://docs.oracle.com/javase/tutorial/java/
+http://docs.oracle.com/javafx/2/get_started/hello_world.htm
