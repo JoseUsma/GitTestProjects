@@ -18,3 +18,20 @@ Zappos API, create a Java webapp that uses that in some fashion. It always reall
 Tutorials:
 http://docs.oracle.com/javase/tutorial/java/
 http://docs.oracle.com/javafx/2/get_started/hello_world.htm
+
+CLASSPATH=.;C:\Program Files\Java\jdk1.7.0_25\bin;C:\Program Files (x86)\QuickTime\QTSystem\QTJava.zip;
+
+Tutorial for MediaWiki's RESTful web service API
+http://www.mediawiki.org/wiki/API:Tutorial
+
+Spring MVC webapp:
+http://static.springsource.org/docs/Spring-MVC-step-by-step/
+
+Created application using appfuse
+http://appfuse.org/display/APF/AppFuse+QuickStart
+
+Installed 
+Maven 3.1.0
+JDK 7.0
+JSE 7
+JEE 7
