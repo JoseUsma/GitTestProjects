@@ -5,7 +5,9 @@ Installed:
 GitBut: Software Repository
  JoseUsma G1tHub5
 
-Maven: Build Told
+Maven: Apache Tomcat Server (Java Servlets/jsp)
+Ant: Apache build tool
+Spring: Framework
 
 Tasks: 
 Spring MVC webapp
@@ -15,23 +17,77 @@ OK - read/write to a database,
 learn how to call APIs using something like CXF.
 Zappos API, create a Java webapp that uses that in some fashion. It always really impresses people when someone puts something like that together
 
+--
+
 Tutorials:
 http://docs.oracle.com/javase/tutorial/java/
 http://docs.oracle.com/javafx/2/get_started/hello_world.htm
 
+NetBeans :
+1. https://netbeans.org/kb/docs/web/quickstart-webapps.html
+2. https://netbeans.org/kb/docs/web/quickstart-webapps-spring.html
+
+
+
+More documentation:
+https://netbeans.org/kb/index.html
+https://netbeans.org/kb/docs/javaee/ecommerce/setup-dev-environ.html
+
+---
+
+Java Installation
+
+JAVA_HOME= jdk folder
+CLASSPATH= jdk\bin folder
+PATH= jdk\bin folder; apache\bin folder
+
 CLASSPATH=.;C:\Program Files\Java\jdk1.7.0_25\bin;C:\Program Files (x86)\QuickTime\QTSystem\QTJava.zip;
+
+Remember to change Java compilator at Eclipse properties JDK 1.7
 
 Tutorial for MediaWiki's RESTful web service API
 http://www.mediawiki.org/wiki/API:Tutorial
 
 Spring MVC webapp:
 http://static.springsource.org/docs/Spring-MVC-step-by-step/
+(Using Tomcat. Need to donwload spring framwork? or STS spring tools )
+Installed Spring for Eclipse
 
 Created application using appfuse
 http://appfuse.org/display/APF/AppFuse+QuickStart
 
-Installed 
-Maven 3.1.0
+Installed at Office
 JDK 7.0
 JSE 7
+NetBeans 7.3.1. 
+
+Maven 3.1.0 (Apache Tomcat)
+
+In order to install JEE need to install Apache Tomcat Server or Glassfish.
 JEE 7
+
+-- 
+
+Java Application Servers Not needeed for now!:
+Application Servers are mostly used if you want to use advanced features like:
+transaction management
+Load Balancing
+Security
+Threading
+App Servers are required for EJBs.
+
+There is application servers that are open source. E.g. GlassFish and JBoss.
+
+---
+
+Installed NetBeans 7.3.1. Finally did my first jsp app.
+
+It seems NetBeans works (easier) better for jsp apps.
+Examples :
+1. https://netbeans.org/kb/docs/web/quickstart-webapps.html
+2. https://netbeans.org/kb/docs/web/quickstart-webapps-spring.html
+
+More documentation:
+https://netbeans.org/kb/index.html
+
+---
