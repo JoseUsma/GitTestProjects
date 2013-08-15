@@ -82,12 +82,15 @@ There is application servers that are open source. E.g. GlassFish and JBoss.
 
 Installed NetBeans 7.3.1. Finally did my first jsp app.
 
-It seems NetBeans works (easier) better for jsp apps.
-Examples :
-1. https://netbeans.org/kb/docs/web/quickstart-webapps.html
-2. https://netbeans.org/kb/docs/web/quickstart-webapps-spring.html
-
-More documentation:
-https://netbeans.org/kb/index.html
-
 ---
+
+Installed at Jose-8:
+
+JDK 7.0
+JSE 7
+NetBeans 7.3.1. 
+
+Maven 3.1.0
+
+to get JEE working I could install using command xxx.exe -j jdk_folder
+or install JRE 32bits
