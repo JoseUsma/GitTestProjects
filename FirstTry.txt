@@ -32,6 +32,8 @@ NetBeans :
 More documentation:
 https://netbeans.org/kb/index.html
 https://netbeans.org/kb/docs/javaee/ecommerce/setup-dev-environ.html
+--
+130814 https://netbeans.org/kb/docs/javaee/ecommerce/page-views-controller.html
 
 ---
 
