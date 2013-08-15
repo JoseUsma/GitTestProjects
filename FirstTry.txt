@@ -94,3 +94,20 @@ Maven 3.1.0
 
 to get JEE working I could install using command xxx.exe -j jdk_folder
 or install JRE 32bits
+
+--
+
+130814 Uninstall everything Java
+Installed
+
+JAVA ES 7 with beans / 32 bits
+Update Path variables
+
+Oracle GlashFish: Domain: UsmaDomain
+
+JAVA EE WEb Profile
+Add Java EE plugins to NetBeans
+
+GlassFish is running at http://localhost:25787/AffableBeans/
+
+
